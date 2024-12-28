@@ -19,7 +19,7 @@ chmod +x system_info.sh
 ./system_info.sh
 ```
 
-## How run an Assembly program?
+## How to run an Assembly program?
 Let's use the hello.s example to illustrate that.
 
 ### Assemble the hello.s assembly source file into an object file
